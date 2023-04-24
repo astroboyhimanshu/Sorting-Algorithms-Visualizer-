@@ -1,3 +1,4 @@
+/* The Code works well for OpenGL Windows so nothing needs to be changed */
 #include <GL/glut.h>
 #include <iostream>
 #include <algorithm>
