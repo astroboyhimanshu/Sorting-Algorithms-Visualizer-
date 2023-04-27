@@ -188,7 +188,7 @@ void display() // responsible for rendering the graphics
 
 void keyboard(unsigned char key, int x, int y)
 {
-    if (key == ' ' || key=='h' || key=='n' || key=='s') // if spacebar is pressed 
+    if (key == ' ' || key=='h' || key=='n') // if spacebar or 'h' or 'n' is pressed 
     {
         sorting = !sorting;
         if (sorting)
