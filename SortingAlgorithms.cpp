@@ -5,6 +5,8 @@
 #include <chrono>
 #include <thread>
 
+// Made by Himanshu
+
 const int ARRAY_SIZE = 50;
 int arr[ARRAY_SIZE];
 bool sorting = false;
